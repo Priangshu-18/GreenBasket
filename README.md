@@ -29,9 +29,10 @@ GreenBasket is committed to providing fresh and affordable groceries right at yo
 ## How to set-up in vs code
 1) Download the zip file and open the file in the visual code.
 2) Keep in mind that you must have the xammp downloaded and set-up to run the php code.
-3) Unzip the css, js and images folder and paste on the folder with the same name as given.
-4) To add your own products, you need to log in to the admin page. Once there, navigate to the products section and input the product name, product price, and upload the product image in JPEG format. After completing these steps, the product will be available in the user section.
-5) That's it, all set.
+3) Add the sql database name ("shop_db") in the mysql page of the admin of the xampp folder and copy the file in the htdocs folder of the xampp folder of the windows c drive folder. 
+4) Unzip the css, js and images folder and paste on the folder with the same name as given.
+5) To add your own products, you need to log in to the admin page. Once there, navigate to the products section and input the product name, product price, and upload the product image in JPEG format. After completing these steps, the product will be available in the user section.
+6) That's it, all set.
 
 ## Connect With Us
 If you have any queries setting up the folder or not running then feel free to contact me on:
