@@ -6,7 +6,6 @@ Welcome to GreenBasket - your one-stop destination for a website to sell grocery
 - [About Us](#about)
 - [Key Features](#features)
 - [How to Get Started](#getting-started)
-- [Tags](#Tags)
 - [How to set-up in vs code](#Setup)
 - [Connect With Us](#contact)
 
@@ -23,16 +22,14 @@ GreenBasket is committed to providing fresh and affordable groceries right at yo
 2. Sign up for an account for a personalized shopping experience.
 3. Add your favorite items to the cart and proceed to checkout.
 
-## Tags
-#Grocery #Ecommerce #Shopping #OnlineStore #FreshProduce
-
 ## How to set-up in vs code
 1) Download the zip file and open the file in the visual code.
 2) Keep in mind that you must have the xammp downloaded and set-up to run the php code.
-3) Add the sql database name ("shop_db") in the mysql page of the admin of the xampp folder and copy the file in the htdocs folder of the xampp folder of the windows c drive folder. 
-4) Unzip the css, js and images folder and paste on the folder with the same name as given.
-5) To add your own products, you need to log in to the admin page. Once there, navigate to the products section and input the product name, product price, and upload the product image in JPEG format. After completing these steps, the product will be available in the user section.
-6) That's it, all set.
+3) Open the `Login.php` file in the web browser.
+4) Add the sql database name ("shop_db") in the mysql page of the admin of the xampp folder and copy the file in the htdocs folder of the xampp folder of the windows c drive folder. 
+5) Unzip the css, js and images folder and paste on the folder with the same name as given.
+6) To add your own products, you need to log in to the admin page. Once there, navigate to the products section and input the product name, product price, and upload the product image in JPEG format. After completing these steps, the product will be available in the user section.
+7) That's it, all set.
 
 ## Connect With Us
 If you have any queries setting up the folder or not running then feel free to contact me on:
