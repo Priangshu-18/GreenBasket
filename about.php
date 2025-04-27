@@ -1,3 +1,4 @@
+# This page contains the information about our website
 <?php
 
 include 'config.php';
