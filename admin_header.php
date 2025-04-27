@@ -1,3 +1,4 @@
+# This is the headerr section of the admin page
 <?php
 if(isset($message)){
    foreach($message as $message){
