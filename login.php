@@ -3,6 +3,7 @@
 include 'config.php';
 session_start();
 
+# This code is use to submit the login information. You can check it in the admin panel
 if(isset($_POST['submit'])){
 
    $email = mysqli_real_escape_string($conn, $_POST['email']);
