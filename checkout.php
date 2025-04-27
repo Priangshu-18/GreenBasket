@@ -1,3 +1,4 @@
+# This is the check-out page where you have to add your address and other details to submit the order
 <?php
 
 include 'config.php';
